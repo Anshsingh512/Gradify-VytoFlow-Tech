@@ -1,6 +1,6 @@
 # Anshsingh512.github.io
 Gradify | VytoFlow Tech 
-Welcome to [Your Website Name] - Your Ultimate Color Gradient Background Generator for Front-End Development!
+Welcome to [Gradify] - Your Ultimate Color Gradient Background Generator for Front-End Development!
 
 At [Gradify], we believe that the perfect blend of colors can transform your web design into a visually stunning masterpiece. Whether you're a seasoned developer or just starting your journey in front-end development, our color gradient background generator is designed to make the process of creating captivating color schemes seamless and enjoyable.
 
